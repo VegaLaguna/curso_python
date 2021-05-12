@@ -1,1 +1,2 @@
-# curso_python
+# Curso de Python para análisis de datos
+
