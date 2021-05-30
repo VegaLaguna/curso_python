@@ -14,26 +14,36 @@ Necesitarás usar el módulo de Jupyter notebook dentro del Anaconda Navigator q
 Si te gusta el curso o tienes cualquier tipo de pregunta o sugerencia, no dudes en contactarme a través de [mi LinkedIn](https://www.linkedin.com/in/vegalaguna/).
 
 
+
 ## Tabla de contenidos del curso
+
 
 ### Introducción a Python
 
 1 - Introducción a la programación con Python
+
 2 - Variables y operaciones
+
 3 - Operadores y condiciones
+
 4 - Estructuras de datos
+
 5 - Bucles
+
 6 - Funciones
+
 7 - Gestión de errores
 
 
 ### Manejo de Pandas
 
 8 - DataFrames
+
 9 - Manejo de fechas (módulo datetime)
 
 
 ### Ejercicios de práctica
 
 A - Prácticas de Python
+
 B - Prácticas de Pandas
