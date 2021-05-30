@@ -22,7 +22,7 @@ Si te gusta el curso o tienes cualquier tipo de pregunta o sugerencia, no dudes 
 
 [1 - Introducción a la programación con Python](https://github.com/VegaLaguna/curso_python/blob/main/01-Intro_a_Python.ipynb)
 
-2 - Variables y operaciones
+[2 - Variables y operaciones](https://github.com/VegaLaguna/curso_python/blob/main/02-Variables_y_Operaciones.ipynb)
 
 3 - Operadores y condiciones
 
