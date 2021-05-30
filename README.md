@@ -20,7 +20,7 @@ Si te gusta el curso o tienes cualquier tipo de pregunta o sugerencia, no dudes 
 
 ### Introducción a Python
 
-1 - Introducción a la programación con Python
+[1 - Introducción a la programación con Python](https://github.com/VegaLaguna/curso_python/blob/main/01-Intro_a_Python.ipynb)
 
 2 - Variables y operaciones
 
